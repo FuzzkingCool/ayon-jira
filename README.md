@@ -1,5 +1,6 @@
 # ayon-jira
 Addon for Jira integration with use of templates
+<!-- git-spork pilot smoke -->
 
 This addon provide two main functionalities, "Preparation of AYON and Jira tickets" and "Sending notifications to Jira",
 
